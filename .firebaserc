@@ -1,0 +1,7 @@
+// .firebaserc
+{
+  "projects": {
+-   "default": "your-firebase-project-id"
++   "default": "duelmasters-b0a97"
+  }
+}
