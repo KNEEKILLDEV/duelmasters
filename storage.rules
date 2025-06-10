@@ -1,8 +1,0 @@
-service firebase.storage {
-  match /b/{bucket}/o {
-    match /cards/{allPaths=**} {
-      allow read;
-      allow write: if false;
-    }
-  }
-}
