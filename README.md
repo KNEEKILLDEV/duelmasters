@@ -1,4 +1,4 @@
-# Duel Masters Simple Game Skeleton with Firebase
+# Duel Masters Card Viewer
 
 ## Setup
 
@@ -6,13 +6,16 @@
    ```
    npm install
    ```
-
-2. Generate card assets and data:
+2. Generate card data:
    ```
    npm run generate
    ```
-
-3. Deploy to Firebase Hosting:
+3. Deploy:
    ```
    firebase deploy --only hosting
    ```
+
+## Structure
+
+- `scripts/` – Data generation scripts
+- `public/` – Static site served by Firebase Hosting

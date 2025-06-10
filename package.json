@@ -1,12 +1,11 @@
 {
-  "name": "duel-masters-simple",
+  "name": "duelmasters-card-viewer",
   "version": "1.0.0",
-  "type": "commonjs",
+  "description": "A Duel Masters card viewer built with Firebase Hosting",
   "scripts": {
-    "generate": "node download_and_generate_cards.js"
+    "generate": "node scripts/download_and_generate_cards.js"
   },
   "dependencies": {
-    "node-fetch": "^2.6.7",
-    "firebase": "^9.0.0"
+    "node-fetch": "^2.7.0"
   }
 }

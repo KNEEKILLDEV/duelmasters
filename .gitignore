@@ -1,3 +1,2 @@
 node_modules/
-dm01_images/
-src/js/cardData.js
+public/dm01_images/*

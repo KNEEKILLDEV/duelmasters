@@ -1,0 +1,1564 @@
+[
+  {
+    "id": "Chilias%2C_the_Oracle",
+    "name": "Chilias%2C the Oracle",
+    "img": "dm01_images/Chilias%2C_the_Oracle.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Dia_Nork%2C_Moonlight_Guardian",
+    "name": "Dia Nork%2C Moonlight Guardian",
+    "img": "dm01_images/Dia_Nork%2C_Moonlight_Guardian.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Emerald_Grass",
+    "name": "Emerald Grass",
+    "img": "dm01_images/Emerald_Grass.jpg",
+    "cost": 2,
+    "power": 3000,
+    "type": "Creature",
+    "civilization": "Light",
+    "tribe": "Starlight Tree",
+    "abilities": [
+      "Blocker"
+    ]
+  },
+  {
+    "id": "Frei%2C_Vizier_of_Air",
+    "name": "Frei%2C Vizier of Air",
+    "img": "dm01_images/Frei%2C_Vizier_of_Air.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Black_Feather%2C_Shadow_of_Rage",
+    "name": "Black Feather%2C Shadow of Rage",
+    "img": "dm01_images/Black_Feather%2C_Shadow_of_Rage.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Bloody_Squito",
+    "name": "Bloody Squito",
+    "img": "dm01_images/Bloody_Squito.jpg",
+    "cost": 2,
+    "power": 4000,
+    "type": "Creature",
+    "civilization": "Darkness",
+    "tribe": "Brain Jacker",
+    "abilities": [
+      "Blocker",
+      "Slayer"
+    ]
+  },
+  {
+    "id": "Ghost_Touch",
+    "name": "Ghost Touch",
+    "img": "dm01_images/Ghost_Touch.jpg",
+    "cost": 2,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Darkness",
+    "tribe": "",
+    "abilities": [
+      "Shield Trigger"
+    ]
+  },
+  {
+    "id": "Gigagiele",
+    "name": "Gigagiele",
+    "img": "dm01_images/Gigagiele.jpg",
+    "cost": 5,
+    "power": 3000,
+    "type": "Creature",
+    "civilization": "Darkness",
+    "tribe": "Chimera",
+    "abilities": [
+      "Slayer"
+    ]
+  },
+  {
+    "id": "Faerie_Child",
+    "name": "Faerie Child",
+    "img": "dm01_images/Faerie_Child.jpg",
+    "cost": 4,
+    "power": 2000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Cyber Virus",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Dark_Reversal",
+    "name": "Dark Reversal",
+    "img": "dm01_images/Dark_Reversal.jpg",
+    "cost": 2,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Darkness",
+    "tribe": "",
+    "abilities": [
+      "Shield Trigger"
+    ]
+  },
+  {
+    "id": "Brain_Serum",
+    "name": "Brain Serum",
+    "img": "dm01_images/Brain_Serum.jpg",
+    "cost": 4,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Water",
+    "tribe": "",
+    "abilities": [
+      "Shield Trigger"
+    ]
+  },
+  {
+    "id": "Gigaberos",
+    "name": "Gigaberos",
+    "img": "dm01_images/Gigaberos.jpg",
+    "cost": 5,
+    "power": 8000,
+    "type": "Creature",
+    "civilization": "Darkness",
+    "tribe": "Chimera",
+    "abilities": [
+      "Double Breaker"
+    ]
+  },
+  {
+    "id": "Chaos_Strike",
+    "name": "Chaos Strike",
+    "img": "dm01_images/Chaos_Strike.jpg",
+    "cost": 2,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Fire",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Dark_Clown",
+    "name": "Dark Clown",
+    "img": "dm01_images/Dark_Clown.jpg",
+    "cost": 4,
+    "power": 6000,
+    "type": "Creature",
+    "civilization": "Darkness",
+    "tribe": "Brain Jacker",
+    "abilities": [
+      "Blocker",
+      "Slayer"
+    ]
+  },
+  {
+    "id": "Artisan_Picora",
+    "name": "Artisan Picora",
+    "img": "dm01_images/Artisan_Picora.jpg",
+    "cost": 1,
+    "power": 2000,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Machine Eater",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Creeping_Plague",
+    "name": "Creeping Plague",
+    "img": "dm01_images/Creeping_Plague.jpg",
+    "cost": 1,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Darkness",
+    "tribe": "",
+    "abilities": [
+      "Slayer"
+    ]
+  },
+  {
+    "id": "Forest_Hornet",
+    "name": "Forest Hornet",
+    "img": "dm01_images/Forest_Hornet.jpg",
+    "cost": 4,
+    "power": 4000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Giant Insect",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Dome_Shell",
+    "name": "Dome Shell",
+    "img": "dm01_images/Dome_Shell.jpg",
+    "cost": 4,
+    "power": null,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Colony Beetle",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Armored_Walker_Urherion",
+    "name": "Armored Walker Urherion",
+    "img": "dm01_images/Armored_Walker_Urherion.jpg",
+    "cost": 4,
+    "power": null,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Armorloid",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Gigargon",
+    "name": "Gigargon",
+    "img": "dm01_images/Gigargon.jpg",
+    "cost": 8,
+    "power": 3000,
+    "type": "Creature",
+    "civilization": "Darkness",
+    "tribe": "Chimera",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Crimson_Hammer",
+    "name": "Crimson Hammer",
+    "img": "dm01_images/Crimson_Hammer.jpg",
+    "cost": 2,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Fire",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Crystal_Memory",
+    "name": "Crystal Memory",
+    "img": "dm01_images/Crystal_Memory.jpg",
+    "cost": 4,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Water",
+    "tribe": "",
+    "abilities": [
+      "Shield Trigger"
+    ]
+  },
+  {
+    "id": "Fear_Fang",
+    "name": "Fear Fang",
+    "img": "dm01_images/Fear_Fang.jpg",
+    "cost": 3,
+    "power": 3000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Beast Folk",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Aqua_Soldier",
+    "name": "Aqua Soldier",
+    "img": "dm01_images/Aqua_Soldier.jpg",
+    "cost": 3,
+    "power": 1000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Liquid People",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Aqua_Vehicle",
+    "name": "Aqua Vehicle",
+    "img": "dm01_images/Aqua_Vehicle.jpg",
+    "cost": 2,
+    "power": 1000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Liquid People",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Aqua_Knight",
+    "name": "Aqua Knight",
+    "img": "dm01_images/Aqua_Knight.jpg",
+    "cost": 5,
+    "power": 4000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Liquid People",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Coiling_Vines",
+    "name": "Coiling Vines",
+    "img": "dm01_images/Coiling_Vines.jpg",
+    "cost": 4,
+    "power": 3000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Tree Folk",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Burning_Power",
+    "name": "Burning Power",
+    "img": "dm01_images/Burning_Power.jpg",
+    "cost": 1,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Fire",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Gatling_Skyterror",
+    "name": "Gatling Skyterror",
+    "img": "dm01_images/Gatling_Skyterror.jpg",
+    "cost": 7,
+    "power": 7000,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Armored Wyvern",
+    "abilities": [
+      "Double Breaker"
+    ]
+  },
+  {
+    "id": "Bone_Assassin%2C_the_Ripper",
+    "name": "Bone Assassin%2C the Ripper",
+    "img": "dm01_images/Bone_Assassin%2C_the_Ripper.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Bone_Spider",
+    "name": "Bone Spider",
+    "img": "dm01_images/Bone_Spider.jpg",
+    "cost": 3,
+    "power": 5000,
+    "type": "Creature",
+    "civilization": "Darkness",
+    "tribe": "Living Dead",
+    "abilities": [
+      "Slayer"
+    ]
+  },
+  {
+    "id": "Draglide",
+    "name": "Draglide",
+    "img": "dm01_images/Draglide.jpg",
+    "cost": 5,
+    "power": 5000,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Armored Wyvern",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Dimension_Gate",
+    "name": "Dimension Gate",
+    "img": "dm01_images/Dimension_Gate.jpg",
+    "cost": 3,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Nature",
+    "tribe": "",
+    "abilities": [
+      "Shield Trigger"
+    ]
+  },
+  {
+    "id": "Aura_Blast",
+    "name": "Aura Blast",
+    "img": "dm01_images/Aura_Blast.jpg",
+    "cost": 4,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Nature",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Brawler_Zyler",
+    "name": "Brawler Zyler",
+    "img": "dm01_images/Brawler_Zyler.jpg",
+    "cost": 2,
+    "power": null,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Human",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Deadly_Fighter_Braid_Claw",
+    "name": "Deadly Fighter Braid Claw",
+    "img": "dm01_images/Deadly_Fighter_Braid_Claw.jpg",
+    "cost": 1,
+    "power": 1000,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Dragonoid",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Dark_Raven%2C_Shadow_of_Grief",
+    "name": "Dark Raven%2C Shadow of Grief",
+    "img": "dm01_images/Dark_Raven%2C_Shadow_of_Grief.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Burning_Mane",
+    "name": "Burning Mane",
+    "img": "dm01_images/Burning_Mane.jpg",
+    "cost": 2,
+    "power": 2000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Beast Folk",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Fatal_Attacker_Horvath",
+    "name": "Fatal Attacker Horvath",
+    "img": "dm01_images/Fatal_Attacker_Horvath.jpg",
+    "cost": 3,
+    "power": null,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Human",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Aqua_Sniper",
+    "name": "Aqua Sniper",
+    "img": "dm01_images/Aqua_Sniper.jpg",
+    "cost": 8,
+    "power": 5000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Liquid People",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Aqua_Hulcus",
+    "name": "Aqua Hulcus",
+    "img": "dm01_images/Aqua_Hulcus.jpg",
+    "cost": 3,
+    "power": 2000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Liquid People",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Candy_Drop",
+    "name": "Candy Drop",
+    "img": "dm01_images/Candy_Drop.jpg",
+    "cost": 3,
+    "power": 1000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Cyber Virus",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Astrocomet_Dragon",
+    "name": "Astrocomet Dragon",
+    "img": "dm01_images/Astrocomet_Dragon.jpg",
+    "cost": 7,
+    "power": null,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Armored Dragon",
+    "abilities": [
+      "Double Breaker"
+    ]
+  },
+  {
+    "id": "Deathliger%2C_Lion_of_Chaos",
+    "name": "Deathliger%2C Lion of Chaos",
+    "img": "dm01_images/Deathliger%2C_Lion_of_Chaos.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Deathblade_Beetle",
+    "name": "Deathblade Beetle",
+    "img": "dm01_images/Deathblade_Beetle.jpg",
+    "cost": 5,
+    "power": null,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Giant Insect",
+    "abilities": [
+      "Double Breaker"
+    ]
+  },
+  {
+    "id": "Explosive_Fighter_Ucarn",
+    "name": "Explosive Fighter Ucarn",
+    "img": "dm01_images/Explosive_Fighter_Ucarn.jpg",
+    "cost": 5,
+    "power": 9000,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Dragonoid",
+    "abilities": [
+      "Double Breaker"
+    ]
+  },
+  {
+    "id": "Bolshack_Dragon",
+    "name": "Bolshack Dragon",
+    "img": "dm01_images/Bolshack_Dragon.jpg",
+    "cost": 6,
+    "power": null,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Armored Dragon",
+    "abilities": [
+      "Double Breaker"
+    ]
+  },
+  {
+    "id": "Fire_Sweeper_Burning_Hellion",
+    "name": "Fire Sweeper Burning Hellion",
+    "img": "dm01_images/Fire_Sweeper_Burning_Hellion.jpg",
+    "cost": 4,
+    "power": null,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Dragonoid",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Bronze-Arm_Tribe",
+    "name": "Bronze-Arm Tribe",
+    "img": "dm01_images/Bronze-Arm_Tribe.jpg",
+    "cost": 3,
+    "power": 1000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Beast Folk",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Death_Smoke",
+    "name": "Death Smoke",
+    "img": "dm01_images/Death_Smoke.jpg",
+    "cost": 4,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Darkness",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Gran_Gure%2C_Space_Guardian",
+    "name": "Gran Gure%2C Space Guardian",
+    "img": "dm01_images/Gran_Gure%2C_Space_Guardian.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Hanusa%2C_Radiance_Elemental",
+    "name": "Hanusa%2C Radiance Elemental",
+    "img": "dm01_images/Hanusa%2C_Radiance_Elemental.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Iere%2C_Vizier_of_Bullets",
+    "name": "Iere%2C Vizier of Bullets",
+    "img": "dm01_images/Iere%2C_Vizier_of_Bullets.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "La_Ura_Giga%2C_Sky_Guardian",
+    "name": "La Ura Giga%2C Sky Guardian",
+    "img": "dm01_images/La_Ura_Giga%2C_Sky_Guardian.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Laser_Wing",
+    "name": "Laser Wing",
+    "img": "dm01_images/Laser_Wing.jpg",
+    "cost": 5,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Light",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Lok%2C_Vizier_of_Hunting",
+    "name": "Lok%2C Vizier of Hunting",
+    "img": "dm01_images/Lok%2C_Vizier_of_Hunting.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Holy_Awe",
+    "name": "Holy Awe",
+    "img": "dm01_images/Holy_Awe.jpg",
+    "cost": 6,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Light",
+    "tribe": "",
+    "abilities": [
+      "Shield Trigger"
+    ]
+  },
+  {
+    "id": "Iocant%2C_the_Oracle",
+    "name": "Iocant%2C the Oracle",
+    "img": "dm01_images/Iocant%2C_the_Oracle.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Lah%2C_Purification_Enforcer",
+    "name": "Lah%2C Purification Enforcer",
+    "img": "dm01_images/Lah%2C_Purification_Enforcer.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Phantom_Fish",
+    "name": "Phantom Fish",
+    "img": "dm01_images/Phantom_Fish.jpg",
+    "cost": 3,
+    "power": 4000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Gel Fish",
+    "abilities": [
+      "Blocker"
+    ]
+  },
+  {
+    "id": "Night_Master%2C_Shadow_of_Decay",
+    "name": "Night Master%2C Shadow of Decay",
+    "img": "dm01_images/Night_Master%2C_Shadow_of_Decay.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Marine_Flower",
+    "name": "Marine Flower",
+    "img": "dm01_images/Marine_Flower.jpg",
+    "cost": 1,
+    "power": 2000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Cyber Virus",
+    "abilities": [
+      "Blocker"
+    ]
+  },
+  {
+    "id": "King_Coral",
+    "name": "King Coral",
+    "img": "dm01_images/King_Coral.jpg",
+    "cost": 3,
+    "power": 1000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Leviathan",
+    "abilities": [
+      "Blocker"
+    ]
+  },
+  {
+    "id": "Solar_Ray",
+    "name": "Solar Ray",
+    "img": "dm01_images/Solar_Ray.jpg",
+    "cost": 2,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Light",
+    "tribe": "",
+    "abilities": [
+      "Shield Trigger"
+    ]
+  },
+  {
+    "id": "Illusionary_Merfolk",
+    "name": "Illusionary Merfolk",
+    "img": "dm01_images/Illusionary_Merfolk.jpg",
+    "cost": 5,
+    "power": 4000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Gel Fish",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Moonlight_Flash",
+    "name": "Moonlight Flash",
+    "img": "dm01_images/Moonlight_Flash.jpg",
+    "cost": 4,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Light",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Sonic_Wing",
+    "name": "Sonic Wing",
+    "img": "dm01_images/Sonic_Wing.jpg",
+    "cost": 3,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Light",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Miele%2C_Vizier_of_Lightning",
+    "name": "Miele%2C Vizier of Lightning",
+    "img": "dm01_images/Miele%2C_Vizier_of_Lightning.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Red-Eye_Scorpion",
+    "name": "Red-Eye Scorpion",
+    "img": "dm01_images/Red-Eye_Scorpion.jpg",
+    "cost": 5,
+    "power": 4000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Giant Insect",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Reusol%2C_the_Oracle",
+    "name": "Reusol%2C the Oracle",
+    "img": "dm01_images/Reusol%2C_the_Oracle.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "King_Ripped-Hide",
+    "name": "King Ripped-Hide",
+    "img": "dm01_images/King_Ripped-Hide.jpg",
+    "cost": 7,
+    "power": 5000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Leviathan",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Revolver_Fish",
+    "name": "Revolver Fish",
+    "img": "dm01_images/Revolver_Fish.jpg",
+    "cost": 4,
+    "power": 5000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Gel Fish",
+    "abilities": [
+      "Blocker"
+    ]
+  },
+  {
+    "id": "Immortal_Baron%2C_Vorg",
+    "name": "Immortal Baron%2C Vorg",
+    "img": "dm01_images/Immortal_Baron%2C_Vorg.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Hunter_Fish",
+    "name": "Hunter Fish",
+    "img": "dm01_images/Hunter_Fish.jpg",
+    "cost": 2,
+    "power": 3000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Fish",
+    "abilities": [
+      "Blocker"
+    ]
+  },
+  {
+    "id": "Skeleton_Soldier%2C_the_Defiled",
+    "name": "Skeleton Soldier%2C the Defiled",
+    "img": "dm01_images/Skeleton_Soldier%2C_the_Defiled.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Mighty_Shouter",
+    "name": "Mighty Shouter",
+    "img": "dm01_images/Mighty_Shouter.jpg",
+    "cost": 3,
+    "power": 2000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Beast Folk",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Meteosaur",
+    "name": "Meteosaur",
+    "img": "dm01_images/Meteosaur.jpg",
+    "cost": 5,
+    "power": 2000,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Rock Beast",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Nomad_Hero_Gigio",
+    "name": "Nomad Hero Gigio",
+    "img": "dm01_images/Nomad_Hero_Gigio.jpg",
+    "cost": 5,
+    "power": 3000,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Machine Eater",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Saucer-Head_Shark",
+    "name": "Saucer-Head Shark",
+    "img": "dm01_images/Saucer-Head_Shark.jpg",
+    "cost": 5,
+    "power": 3000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Gel Fish",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Pangaea%27s_Song",
+    "name": "Pangaea%27s Song",
+    "img": "dm01_images/Pangaea%27s_Song.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Stonesaur",
+    "name": "Stonesaur",
+    "img": "dm01_images/Stonesaur.jpg",
+    "cost": 5,
+    "power": null,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Rock Beast",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Roaring_Great-Horn",
+    "name": "Roaring Great-Horn",
+    "img": "dm01_images/Roaring_Great-Horn.jpg",
+    "cost": 7,
+    "power": null,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Horned Beast",
+    "abilities": [
+      "Double Breaker"
+    ]
+  },
+  {
+    "id": "Masked_Horror%2C_Shadow_of_Scorn",
+    "name": "Masked Horror%2C Shadow of Scorn",
+    "img": "dm01_images/Masked_Horror%2C_Shadow_of_Scorn.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Natural_Snare",
+    "name": "Natural Snare",
+    "img": "dm01_images/Natural_Snare.jpg",
+    "cost": 6,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Nature",
+    "tribe": "",
+    "abilities": [
+      "Shield Trigger"
+    ]
+  },
+  {
+    "id": "Steel_Smasher",
+    "name": "Steel Smasher",
+    "img": "dm01_images/Steel_Smasher.jpg",
+    "cost": 2,
+    "power": 3000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Beast Folk",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Stinger_Worm",
+    "name": "Stinger Worm",
+    "img": "dm01_images/Stinger_Worm.jpg",
+    "cost": 3,
+    "power": 5000,
+    "type": "Creature",
+    "civilization": "Darkness",
+    "tribe": "Parasite Worm",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Magma_Gazer",
+    "name": "Magma Gazer",
+    "img": "dm01_images/Magma_Gazer.jpg",
+    "cost": 3,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Fire",
+    "tribe": "",
+    "abilities": [
+      "Double Breaker"
+    ]
+  },
+  {
+    "id": "Ruby_Grass",
+    "name": "Ruby Grass",
+    "img": "dm01_images/Ruby_Grass.jpg",
+    "cost": 3,
+    "power": 3000,
+    "type": "Creature",
+    "civilization": "Light",
+    "tribe": "Starlight Tree",
+    "abilities": [
+      "Blocker"
+    ]
+  },
+  {
+    "id": "Stampeding_Longhorn",
+    "name": "Stampeding Longhorn",
+    "img": "dm01_images/Stampeding_Longhorn.jpg",
+    "cost": 5,
+    "power": 4000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Horned Beast",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Golden_Wing_Striker",
+    "name": "Golden Wing Striker",
+    "img": "dm01_images/Golden_Wing_Striker.jpg",
+    "cost": 3,
+    "power": null,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Beast Folk",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Rothus%2C_the_Traveler",
+    "name": "Rothus%2C the Traveler",
+    "img": "dm01_images/Rothus%2C_the_Traveler.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Spiral_Gate",
+    "name": "Spiral Gate",
+    "img": "dm01_images/Spiral_Gate.jpg",
+    "cost": 2,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Water",
+    "tribe": "",
+    "abilities": [
+      "Shield Trigger"
+    ]
+  },
+  {
+    "id": "Seamine",
+    "name": "Seamine",
+    "img": "dm01_images/Seamine.jpg",
+    "cost": 6,
+    "power": 4000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Fish",
+    "abilities": [
+      "Blocker"
+    ]
+  },
+  {
+    "id": "Onslaughter_Triceps",
+    "name": "Onslaughter Triceps",
+    "img": "dm01_images/Onslaughter_Triceps.jpg",
+    "cost": 3,
+    "power": 5000,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Dragonoid",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "King_Depthcon",
+    "name": "King Depthcon",
+    "img": "dm01_images/King_Depthcon.jpg",
+    "cost": 7,
+    "power": 6000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Leviathan",
+    "abilities": [
+      "Double Breaker"
+    ]
+  },
+  {
+    "id": "Senatine_Jade_Tree",
+    "name": "Senatine Jade Tree",
+    "img": "dm01_images/Senatine_Jade_Tree.jpg",
+    "cost": 3,
+    "power": 4000,
+    "type": "Creature",
+    "civilization": "Light",
+    "tribe": "Starlight Tree",
+    "abilities": [
+      "Blocker"
+    ]
+  },
+  {
+    "id": "Rayla%2C_Truth_Enforcer",
+    "name": "Rayla%2C Truth Enforcer",
+    "img": "dm01_images/Rayla%2C_Truth_Enforcer.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Poisonous_Mushroom",
+    "name": "Poisonous Mushroom",
+    "img": "dm01_images/Poisonous_Mushroom.jpg",
+    "cost": 2,
+    "power": 1000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Balloon Mushroom",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Scarlet_Skyterror",
+    "name": "Scarlet Skyterror",
+    "img": "dm01_images/Scarlet_Skyterror.jpg",
+    "cost": 8,
+    "power": 3000,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Armored Wyvern",
+    "abilities": [
+      "Blocker"
+    ]
+  },
+  {
+    "id": "Poisonous_Dahlia",
+    "name": "Poisonous Dahlia",
+    "img": "dm01_images/Poisonous_Dahlia.jpg",
+    "cost": 4,
+    "power": 5000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Tree Folk",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Terror_Pit",
+    "name": "Terror Pit",
+    "img": "dm01_images/Terror_Pit.jpg",
+    "cost": 6,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Darkness",
+    "tribe": "",
+    "abilities": [
+      "Shield Trigger"
+    ]
+  },
+  {
+    "id": "Virtual_Tripwire",
+    "name": "Virtual Tripwire",
+    "img": "dm01_images/Virtual_Tripwire.jpg",
+    "cost": 3,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Water",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Unicorn_Fish",
+    "name": "Unicorn Fish",
+    "img": "dm01_images/Unicorn_Fish.jpg",
+    "cost": 4,
+    "power": 1000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Fish",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Tri-horn_Shepherd",
+    "name": "Tri-horn Shepherd",
+    "img": "dm01_images/Tri-horn_Shepherd.jpg",
+    "cost": 5,
+    "power": 5000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Horned Beast",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Tropico",
+    "name": "Tropico",
+    "img": "dm01_images/Tropico.jpg",
+    "cost": 5,
+    "power": 3000,
+    "type": "Creature",
+    "civilization": "Water",
+    "tribe": "Cyber Lord",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Storm_Shell",
+    "name": "Storm Shell",
+    "img": "dm01_images/Storm_Shell.jpg",
+    "cost": 7,
+    "power": 2000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Colony Beetle",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Toel%2C_Vizier_of_Hope",
+    "name": "Toel%2C Vizier of Hope",
+    "img": "dm01_images/Toel%2C_Vizier_of_Hope.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Writhing_Bone_Ghoul",
+    "name": "Writhing Bone Ghoul",
+    "img": "dm01_images/Writhing_Bone_Ghoul.jpg",
+    "cost": 2,
+    "power": 2000,
+    "type": "Creature",
+    "civilization": "Darkness",
+    "tribe": "Living Dead",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Swamp_Worm",
+    "name": "Swamp Worm",
+    "img": "dm01_images/Swamp_Worm.jpg",
+    "cost": 7,
+    "power": 2000,
+    "type": "Creature",
+    "civilization": "Darkness",
+    "tribe": "Parasite Worm",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Tower_Shell",
+    "name": "Tower Shell",
+    "img": "dm01_images/Tower_Shell.jpg",
+    "cost": 6,
+    "power": 5000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Colony Beetle",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Teleportation",
+    "name": "Teleportation",
+    "img": "dm01_images/Teleportation.jpg",
+    "cost": 5,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Water",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Tornado_Flame",
+    "name": "Tornado Flame",
+    "img": "dm01_images/Tornado_Flame.jpg",
+    "cost": 5,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Fire",
+    "tribe": "",
+    "abilities": [
+      "Shield Trigger"
+    ]
+  },
+  {
+    "id": "Super_Explosive_Volcanodon",
+    "name": "Super Explosive Volcanodon",
+    "img": "dm01_images/Super_Explosive_Volcanodon.jpg",
+    "cost": 4,
+    "power": null,
+    "type": "Creature",
+    "civilization": "Fire",
+    "tribe": "Dragonoid",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Ultimate_Force",
+    "name": "Ultimate Force",
+    "img": "dm01_images/Ultimate_Force.jpg",
+    "cost": 5,
+    "power": 0,
+    "type": "Spell",
+    "civilization": "Nature",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Vampire_Silphy",
+    "name": "Vampire Silphy",
+    "img": "dm01_images/Vampire_Silphy.jpg",
+    "cost": 8,
+    "power": 4000,
+    "type": "Creature",
+    "civilization": "Darkness",
+    "tribe": "Dark Lord",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Wandering_Braineater",
+    "name": "Wandering Braineater",
+    "img": "dm01_images/Wandering_Braineater.jpg",
+    "cost": 2,
+    "power": 2000,
+    "type": "Creature",
+    "civilization": "Darkness",
+    "tribe": "Living Dead",
+    "abilities": [
+      "Blocker"
+    ]
+  },
+  {
+    "id": "Szubs_Kin%2C_Twilight_Guardian",
+    "name": "Szubs Kin%2C Twilight Guardian",
+    "img": "dm01_images/Szubs_Kin%2C_Twilight_Guardian.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Zagaan%2C_Knight_of_Darkness",
+    "name": "Zagaan%2C Knight of Darkness",
+    "img": "dm01_images/Zagaan%2C_Knight_of_Darkness.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Urth%2C_Purifying_Elemental",
+    "name": "Urth%2C Purifying Elemental",
+    "img": "dm01_images/Urth%2C_Purifying_Elemental.jpg",
+    "cost": 0,
+    "power": 0,
+    "type": "",
+    "civilization": "",
+    "tribe": "",
+    "abilities": [
+      "None"
+    ]
+  },
+  {
+    "id": "Thorny_Mandra",
+    "name": "Thorny Mandra",
+    "img": "dm01_images/Thorny_Mandra.jpg",
+    "cost": 5,
+    "power": 4000,
+    "type": "Creature",
+    "civilization": "Nature",
+    "tribe": "Tree Folk",
+    "abilities": [
+      "None"
+    ]
+  }
+]
